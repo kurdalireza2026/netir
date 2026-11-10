@@ -1,0 +1,26 @@
+{
+  "panelTitle": "پنل اختصاصی V2Ray Pro (گیت‌هاب + کلودفلر)",
+  "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+  "proxyIps": [
+    "bpb.yousef.isegaro.com",
+    "ProxyIP.DE.CMLiussss.net",
+    "ProxyIP.US.CMLiussss.net",
+    "nima.nscl.ir"
+  ],
+  "cleanNodes": [
+    { "ip": "www.speedtest.net", "port": 443, "name": "🚀 Speedtest | مولتی اپراتور" },
+    { "ip": "zula.ir", "port": 443, "name": "🎮 Zula | پینگ گیمینگ ایران" },
+    { "ip": "www.visa.com", "port": 2053, "name": "💳 Visa | پورت ۲۰۵۳ ضد فیلتر" },
+    { "ip": "162.159.135.42", "port": 443, "name": "📱 همراه اول | سرور توربو ۱" },
+    { "ip": "162.159.128.7", "port": 2083, "name": "📱 همراه اول | سرور توربو ۲" },
+    { "ip": "104.17.148.22", "port": 443, "name": "💛 ایرانسل | سرور سرعت بالا ۱" },
+    { "ip": "104.18.20.226", "port": 2087, "name": "💛 ایرانسل | سرور سرعت بالا ۲" },
+    { "ip": "172.66.44.106", "port": 443, "name": "☎️ مخابرات و شاتل | سرور ۱" },
+    { "ip": "172.64.155.141", "port": 2096, "name": "☎️ آسیاتک و پارس‌آنلاین" },
+    { "ip": "108.162.198.41", "port": 8443, "name": "⚡ کلودفلر اروپا | پورت ۸۴۴۳" }
+  ],
+  "githubSubPools": [
+    "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt",
+    "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/vless"
+  ]
+}
